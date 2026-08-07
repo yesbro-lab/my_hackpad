@@ -9,7 +9,7 @@ This is my custom 3-key mechanical macropad layout designed for the Hack Club Bl
 * **1.5mm top plate thickness** to ensure proper hardware locking.
 
 ### My 3D Case Layout
-<img src="https://githubusercontent.com" width="100%">
+<img src="Info/Screenshot 2026-08-07 at 13.40.45.png">
 
 ---
 
