@@ -20,7 +20,8 @@ This is my custom 3-key mechanical macropad layout designed for the Hack Club Bl
 * Powered by a **Seeed Studio XIAO** microcontroller board.
 
 ### My Circuit Schematic
-<img src="https://githubusercontent.com" width="100%">
+<img src="Screenshot 2026-08-07 at 13.56.59.png
+">
 
 ---
 
