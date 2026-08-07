@@ -1,5 +1,0 @@
-"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Exclude from Simulation","Exclude from Position Files","Footprint","Datasheet"
-"D1,D2,D3","3","LED_THT:LED_D5.0mm","","","","","${EXCLUDE_FROM_POS_FILES}","SK6812MINI-E - 3.2x2.8x1.78mm","https://cdn-shop.adafruit.com/product-files/4960/4960_SK6812MINI-E_REV02_EN.pdf"
-"SW1,SW3","2","Button_Switch_THT:SW_PUSH_6mm_H5mm","","","","","${EXCLUDE_FROM_POS_FILES}","",""
-"SW2","1","Button_Switch_THT:SW_PUSH_6mm_H5mm","","","","","${EXCLUDE_FROM_POS_FILES}","HackClub:SW_Cherry_MX_PCB",""
-"U1","1","MOUDLE-SEEEDUINO-XIAO","","","","","${EXCLUDE_FROM_POS_FILES}","",""
